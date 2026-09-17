@@ -1,0 +1,22 @@
+Functional Requirements:
+
+User can play songs.
+User can pause songs.
+User can create playlists.
+User can add songs to playlists.
+User can play an entire playlist.
+Playlist playback should support:
+    Sequential order
+    Random order
+    Custom order
+App should support multiple output devices:
+    Bluetooth speakers
+    Wired speakers
+    Headphones
+
+Non-Functional Requirements:
+
+The overall design should be easily scalable.
+It should be easy to add new output devices.
+It should be easy to add new playback modes.
+It should be easy to add new playlist-related features.

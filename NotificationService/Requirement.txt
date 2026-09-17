@@ -1,0 +1,5 @@
+Requirement
+1. Plug and Play
+2. Highly Extendable: SMS, POPUP, Email for now.
+3. We can add features dynamically
+4. Store all notification and console to log
