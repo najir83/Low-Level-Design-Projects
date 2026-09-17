@@ -10,7 +10,6 @@ class PlayListManager
     PlayListManager()
     {
     }
-
 public:
     static PlayListManager *getInstance()
     {

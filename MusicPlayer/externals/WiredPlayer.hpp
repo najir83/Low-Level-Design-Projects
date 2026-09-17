@@ -9,4 +9,8 @@ public:
     {
         std::cout << "[Playing song via wired player: " << song << "]\n";
     }
+    ~WiredPlayer()
+    {
+        std::cout << "Wired speaker deleted\n";
+    }
 };
